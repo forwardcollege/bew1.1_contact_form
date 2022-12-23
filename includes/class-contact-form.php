@@ -41,7 +41,7 @@ class ContactForm
     }
 
     /**
-     * Send message to admin email via SMTP API (postmark, mailgun, etc.)
+     * [bonus point] Send message to admin email via SMTP API (postmark, mailgun, etc.)
      */
     public function sendMessage()
     {   

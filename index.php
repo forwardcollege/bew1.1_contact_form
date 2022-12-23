@@ -19,7 +19,7 @@
             // instruction: get the data from the form and pass it to the submit method
             
 
-            // (optional) instruction: if the data is inserted into database, send email to admin email via SMTP API (postmark, mailgun, etc.)
+            // [bonus point] instruction: if the data is inserted into database, send email to admin email via SMTP API (postmark, mailgun, etc.)
            
 
         // Only change code above this line
