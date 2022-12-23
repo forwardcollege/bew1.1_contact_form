@@ -11,6 +11,7 @@ In this challenge, you're going to build a workable contact form.
 
 Your challenge is to build a contact form that meets the following requirements:
 
+- Use the code here as a starting point: https://github.com/forwardschool/bew1.1_contact_form
 - The form should be able to detect if any of the fields are empty and display an error message if so.
 - The form should be able to detect if the email address is invalid and display an error message if so.
 - The form should be able to detect if the message is less than 10 characters and display an error message if so.
