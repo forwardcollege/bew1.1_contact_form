@@ -4,7 +4,7 @@
 
 In this challenge, you're going to build a workable contact form. 
 
-[![Contact Us Form](contact-us-form.png)]
+![Contact Us Form](contact-us-form.png)
 
 
 ## The Challenge
